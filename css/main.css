@@ -348,6 +348,7 @@ a {
     height: 300px;
     max-width: 100%;
     border-radius: 50%;
+    object-fit: revert;
 }
 .taste .container .taste-content .text {
     width: 400px;
